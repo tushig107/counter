@@ -1,0 +1,44 @@
+#body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+}
+
+#count {
+    color: green;
+}
+
+#decrease {
+    width: 150px;
+    height: 45px;
+    border-color: grey;
+    border-radius: 20px;
+    color: grey;
+    background-color: white;
+}
+
+#increase {
+    width: 150px;
+    height: 45px;
+    border-color: grey;
+    border-radius: 20px;
+    color: grey;
+    background-color: white;
+}
+
+#reset {
+    width: 150px;
+    height: 45px;
+    border-color: grey;
+    border-radius: 20px;
+    color: grey;
+    background-color: white;
+}
